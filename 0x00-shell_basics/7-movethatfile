@@ -1,3 +1,4 @@
 #!/bin/bash
-mv /tmp/jabs /tmp/my_first_directory
+mv /tmp/Jon /tmp/my_first_directory
+
 
