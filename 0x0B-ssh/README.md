@@ -25,8 +25,8 @@
               <span class="sr-only">Toggle Dropdown</span>
             </button>
             <ul class="dropdown-menu dropdown-menu-right">
-                <li><a data-confirm="Are you sure to reboot 59637-web-01?" href="/servers/9390/soft_reboot">Soft reboot</a></li>
-                  <li><a data-confirm="Are you sure to hard reboot 59637-web-01?" href="/servers/9390/hard_reboot">Hard reboot</a></li>
+                <li><a data-confirm="Are you sure to reboot 164337-web-01 ?" href="/servers/9390/soft_reboot">Soft reboot</a></li>
+                  <li><a data-confirm="Are you sure to hard reboot 164337-web-01 ?" href="/servers/9390/hard_reboot">Hard reboot</a></li>
 
               <li role="separator" class="divider"></li>
 
