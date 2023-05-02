@@ -10,4 +10,4 @@
 ---
 
 ## Author
-* **Bright Daniel** - (https://github.com/brightdaniel)
+* **jabs_for_the_world** - (https://github.com/jabs081)
